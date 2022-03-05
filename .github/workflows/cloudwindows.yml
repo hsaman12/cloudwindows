@@ -1,5 +1,4 @@
-name: 
-cloudwindows
+name: cloudwindows
 
 on: workflow_dispatch
 
